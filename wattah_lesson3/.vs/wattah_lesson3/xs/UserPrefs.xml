@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B757977F-6E14-F1DF-7401-EAC76F6EA1C6}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TimeCountManager.cs">
+    <Files>
+      <File FileName="Assets/TimeCountManager.cs" Line="24" Column="10" />
+      <File FileName="Assets/ClickCountManager.cs" Line="8" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
