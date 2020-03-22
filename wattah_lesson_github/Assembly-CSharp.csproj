@@ -63,10 +63,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CameraMove.cs" />
+    <Compile Include="Assets\EnemyMove.cs" />
     <Compile Include="Assets\PlayerMove.cs" />
     <Compile Include="Assets\TrapMove.cs" />
     <Compile Include="Assets\TrapMove2.cs" />
     <Compile Include="Assets\TrapMove3.cs" />
+    <Compile Include="Assets\TrapMove4.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/wonder_staff/Documents/wattah/unity-lita/wattah_lesson_github/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
