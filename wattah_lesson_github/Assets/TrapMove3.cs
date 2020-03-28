@@ -13,6 +13,6 @@ public class TrapMove3 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(0, 0, 5);
+        transform.Rotate(0, 0, 3);
     }
 }
